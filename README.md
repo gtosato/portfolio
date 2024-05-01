@@ -1,5 +1,16 @@
 # Portfolio Website
 
+<br />
+
+<div style='text-align: center;'>
+  <img src='./images/demo.png' alt='demo' />
+</div>
+
+<br />
+<b>Live deployment:</b><br/>
+https://lucent-peony-1eb1da.netlify.app/
+<br/>
+
 ## Outline
 
 This project is designed to apply concepts and skills acquired throughout the \_nology training course. It will also provide some insight as to who I am as a person, and offer a overiew of my background, and what my plans are moving forward.
@@ -10,20 +21,20 @@ The following is breakdown of the pages used in this portfolio:
 
 #### HOME
 
-- A landing page with my name and brief overview of the site.
+-    A landing page with my name and brief overview of the site.
 
 #### ABOUT
 
-- A brief introduction to myself, as well as an overview of my background.
+-    A brief introduction to myself, as well as an overview of my background.
 
 #### TECHNICAL SKILLS
 
-- A listing of all technologies and skills being developed throughout the course.
+-    A listing of all technologies and skills being developed throughout the course.
 
 #### PROJECTS
 
-- A listing of all projects developed throughout the course, as well as any previous projects.
+-    A listing of all projects developed throughout the course, as well as any previous projects.
 
 #### CONTACT
 
-- Contains contact information including email address, GitHub profile link, and LinkedIn profile link.
+-    Contains contact information including email address, GitHub profile link, and LinkedIn profile link.
